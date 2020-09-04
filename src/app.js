@@ -9,7 +9,7 @@ const PORT = 8080;
 
 // create a route for the app
 app.get('/', (req, res) => {
-  res.send('Hello. Niners were robbed in the SB last year.</a>');
+  res.send('Hello. Niners were robbed in the SB last year. Gonna win it this year.</a>');
 });
 
 // make the server listen to requests
